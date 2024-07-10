@@ -69,3 +69,6 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
+
+# output #
+![image](https://github.com/GeetaChauhan777/File-Transfer-Application/assets/66312158/a9263f8b-152b-4c06-8672-ee9a59d35983)
